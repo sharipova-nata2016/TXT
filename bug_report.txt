@@ -1,1 +1,11 @@
+	id: "1"
+	
+	Title: "The main page of the site does not open",
 
+	Steps: "Go to http/...",
+
+	Expected result: "Open http/...",
+	
+	Actual result": "The main page of the site does not open",
+	
+	Severity: "Blocker"
